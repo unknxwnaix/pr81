@@ -1,0 +1,32 @@
+﻿<Window x:Class="vipief.MainWindow"
+        xmlns:i="http://schemas.microsoft.com/xaml/behaviors"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:vipief"
+        DataContext="{Binding RelativeSource={RelativeSource Self}}"
+        mc:Ignorable="d"
+        Background="{DynamicResource }"
+        Title="MainWindow" Height="239" Width="547">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <DataGrid CanUserAddRows="False" ItemsSource="{Binding Colours}" SelectedItem="{Binding Selected}"/>
+
+        <StackPanel Grid.Column="1">
+            <TextBlock Text="Название:" TextAlignment="Center"/>
+            <TextBox Text="{Binding Selected.Name}"/>
+            <TextBlock Text="HEX значение:" TextAlignment="Center"/>
+            <TextBox Text="{Binding Selected.Hexademical}"/>
+            <Button VerticalAlignment="Bottom" Content="Новии цвет" Command="{Binding AddCommand}"/>
+            <Button VerticalAlignment="Bottom" Content="Загрузка данных" Command="{Binding Save}"/>
+            <Button VerticalAlignment="Bottom" Content="Выгрузка данных" Command="{Binding Upload}"/>
+            <Button VerticalAlignment="Bottom" Content="{Binding ThemeName}" Command="{Binding Theme}"/>
+        </StackPanel>
+    </Grid>
+</Window>
+    

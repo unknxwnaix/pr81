@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "quNn8S2jYu1bfqr9QRFZEVavZH3oo2nYvH7Bg3EGI6f5CIQ4izhzXGah0JabtO7CgAxMARKc5wG8PAMBEUdUYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aiX\\Desktop\\vipief\\ChangeThemeLib\\ChangeThemeLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aiX\\.nuget\\packages\\xamarin.forms\\5.0.0.2578\\xamarin.forms.5.0.0.2578.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\aiX\Desktop\vipief\SerealizationAndDeserealizationLib\bin\Debug\net7.0\SerealizationAndDeserealizationLib.deps.json
+C:\Users\aiX\Desktop\vipief\SerealizationAndDeserealizationLib\bin\Debug\net7.0\SerealizationAndDeserealizationLib.dll
+C:\Users\aiX\Desktop\vipief\SerealizationAndDeserealizationLib\bin\Debug\net7.0\SerealizationAndDeserealizationLib.pdb
+C:\Users\aiX\Desktop\vipief\SerealizationAndDeserealizationLib\obj\Debug\net7.0\SerealizationAndDeserealizationLib.csproj.AssemblyReference.cache
+C:\Users\aiX\Desktop\vipief\SerealizationAndDeserealizationLib\obj\Debug\net7.0\SerealizationAndDeserealizationLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aiX\Desktop\vipief\SerealizationAndDeserealizationLib\obj\Debug\net7.0\SerealizationAndDeserealizationLib.AssemblyInfoInputs.cache
+C:\Users\aiX\Desktop\vipief\SerealizationAndDeserealizationLib\obj\Debug\net7.0\SerealizationAndDeserealizationLib.AssemblyInfo.cs
+C:\Users\aiX\Desktop\vipief\SerealizationAndDeserealizationLib\obj\Debug\net7.0\SerealizationAndDeserealizationLib.csproj.CoreCompileInputs.cache
+C:\Users\aiX\Desktop\vipief\SerealizationAndDeserealizationLib\obj\Debug\net7.0\SerealizationAndDeserealizationLib.dll
+C:\Users\aiX\Desktop\vipief\SerealizationAndDeserealizationLib\obj\Debug\net7.0\refint\SerealizationAndDeserealizationLib.dll
+C:\Users\aiX\Desktop\vipief\SerealizationAndDeserealizationLib\obj\Debug\net7.0\SerealizationAndDeserealizationLib.pdb
+C:\Users\aiX\Desktop\vipief\SerealizationAndDeserealizationLib\obj\Debug\net7.0\ref\SerealizationAndDeserealizationLib.dll

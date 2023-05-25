@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+7w4ZWT3BFTiEEEvl+bXmufQlCcof+9ERCmrgha6v6aKpjR4Hy6kG7BZu5OrNADUZJ0J2iqz7MWB3Mnb00cKZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aiX\\Desktop\\vipief\\SerealizationAndDeserealizationLib1\\SerealizationAndDeserealizationLib1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aiX\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
